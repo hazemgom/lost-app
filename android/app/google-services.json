@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "207794667460",
+    "project_id": "savestone-64700",
+    "storage_bucket": "savestone-64700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207794667460:android:feede7ba528adbe8a92e91",
+        "android_client_info": {
+          "package_name": "com.example.save_stone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207794667460-jna2b72gh185bsrgq4b0cda63o0tnqu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.save_stone",
+            "certificate_hash": "1d864540d2ba320f41232d01ff66092ecf30715d"
+          }
+        },
+        {
+          "client_id": "207794667460-37jkuhvvhmq4n0jb045npt1g0glepfla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTeI7rfy1xXE5eeHJueP8LQZ3iOXYcs3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207794667460-37jkuhvvhmq4n0jb045npt1g0glepfla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
